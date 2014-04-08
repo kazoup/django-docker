@@ -3,6 +3,7 @@ django-docker
 
 Demo Django App using Docker
 
+[![Docker Repository on Quay.io](https://quay.io/repository/kazoup/django/status "Docker Repository on Quay.io")](https://quay.io/repository/kazoup/django)
 
 Dockerfile
 ------------
